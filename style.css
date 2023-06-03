@@ -1,0 +1,67 @@
+
+body{
+    display: block;
+    margin: 0vh;
+}
+.navbar-brand{
+
+    color: #917FB3 ;
+    font-family: 'Kalam', cursive;
+}
+
+.navbar{
+    
+    background-color: #2A2F4F;
+    
+}
+.nav-link{
+ color: #FDE2F3;
+}
+
+body{
+    background-color: #E5BEEC;
+} 
+
+.btn{
+    background-color: #917FB3;
+}
+.btn:hover{
+    background-color: #2A2F4F;
+    color: white;
+}
+ul{
+  
+    list-style: none;
+}
+li{
+    text-align: left;
+}
+
+hr{
+  border-top: 2px solid white;
+}
+
+.dec-head{
+    text-align: center;
+}
+
+.pro-head{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.resume-head{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.contact-title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.pro{
+    text-align: center;
+}
+
